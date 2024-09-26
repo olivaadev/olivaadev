@@ -2,7 +2,7 @@ Desenvolvedor Full-Stack
 
 
 
-<img src="https://images.alphacoders.com/130/1308512.jpeg" widht="500" height="3000">
+<img src="https://images.alphacoders.com/130/1308512.jpeg" widht="500" height="300">
 
 
 Olá, me chamo Gustavo!
