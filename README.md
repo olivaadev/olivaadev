@@ -1,16 +1,22 @@
-## Hi there 👋
+Desenvolvedor Node.js/Python
 
-<!--
-**olivaadev/olivaadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Imagem -->
 
-Here are some ideas to get you started:
+Olá, me chamo Gustavo!
+Seja muito bem-vindo ao meu perfil do GitHub.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sobre mim:
+- Atualmente estou trabalhando em pequenos projetos sendo desenvolvidos em Node e Python.
+- Busco me consolidar em Back-End porém sempre me aventuro no Front-End, sendo um developer fullstack!
+- Estudo diáriamente Node.JS, MySQL e Python.
+- Por maior que seja a dificuldade devemos encarar de frente e buscar uma solução.
+
+Tecnologias que eu utilizo:
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>         
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/>       
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40"/>   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/>
