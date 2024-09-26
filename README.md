@@ -1,4 +1,4 @@
-Desenvolvedor Node.js/Python
+Desenvolvedor Full-Stack
 
 <!-- Imagem -->
 
