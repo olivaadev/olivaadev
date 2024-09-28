@@ -1,4 +1,4 @@
-<h1>Desenvolvedor Full-Stack</h1>
+<h1 font-family:tahoma; color:#e6e6e6; >Desenvolvedor Full-Stack</h1>
 
 
 
