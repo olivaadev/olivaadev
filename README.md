@@ -9,10 +9,10 @@
 <p font-size:25px;>Seja muito bem-vindo ao meu perfil do GitHub.</p>
 
 <h2>Sobre mim:</h2>
-- Atualmente estou trabalhando em pequenos projetos sendo desenvolvidos em Node e Python.
-- Busco me consolidar em Back-End porém sempre me aventuro no Front-End, sendo um developer fullstack!
-- Estudo diáriamente Node.JS, MySQL e Python.
-- Por maior que seja a dificuldade devemos encarar de frente e buscar uma solução.
+- Atualmente estou trabalhando em pequenos projetos sendo desenvolvidos em Node e Python.<br>
+- Busco me consolidar em Back-End porém sempre me aventuro no Front-End, sendo um developer fullstack!<br>
+- Estudo diáriamente Node.JS, MySQL e Python.<br>
+- Por maior que seja a dificuldade devemos encarar de frente e buscar uma solução.<br>
 
 <h1>Tecnologias que eu utilizo:</h1>
 
