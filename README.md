@@ -5,10 +5,10 @@
 <img src="https://i.imgur.com/Sc5ZTKy.jpeg">
 
 
-<h2>Olá, me chamo Gustavo!</h2>
-<h2>Seja muito bem-vindo ao meu perfil do GitHub.</h2>
+Olá, me chamo Gustavo!
+Seja muito bem-vindo ao meu perfil do GitHub.
 
-<h1>Sobre mim:</h1>
+Sobre mim:
 - Atualmente estou trabalhando em pequenos projetos sendo desenvolvidos em Node e Python.
 - Busco me consolidar em Back-End porém sempre me aventuro no Front-End, sendo um developer fullstack!
 - Estudo diáriamente Node.JS, MySQL e Python.
