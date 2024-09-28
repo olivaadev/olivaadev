@@ -8,7 +8,7 @@
 <p font-size:25px;>Olá, me chamo Gustavo!</p>
 <p font-size:25px;>Seja muito bem-vindo ao meu perfil do GitHub.</p>
 
-<h1>Sobre mim:</h1>
+<h2>Sobre mim:</h2>
 - Atualmente estou trabalhando em pequenos projetos sendo desenvolvidos em Node e Python.
 - Busco me consolidar em Back-End porém sempre me aventuro no Front-End, sendo um developer fullstack!
 - Estudo diáriamente Node.JS, MySQL e Python.
