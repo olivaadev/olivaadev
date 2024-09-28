@@ -5,7 +5,7 @@
 <img src="https://i.imgur.com/Sc5ZTKy.jpeg">
 
 
-Olá, me chamo Gustavo!<br>
+<p font-size: 25px>Olá, me chamo Gustavo!</p><br>
 Seja muito bem-vindo ao meu perfil do GitHub.
 
 Sobre mim:
