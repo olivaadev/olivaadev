@@ -5,8 +5,8 @@
 <img src="https://i.imgur.com/Sc5ZTKy.jpeg">
 
 
-<p>Olá, me chamo Gustavo!</p>
-<p>Seja muito bem-vindo ao meu perfil do GitHub.</p>
+Olá, me chamo Gustavo!
+Seja muito bem-vindo ao meu perfil do GitHub.
 
 <h2>Sobre mim:</h2>
 - Atualmente estou trabalhando em pequenos projetos sendo desenvolvidos em Node e Python.<br>
